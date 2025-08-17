@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb)
 
+(https://zenodo.org/badge/DOI/10.5281/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.2561065)
+
 This repository demonstrates how to create interactive webapps from a Jupyter Notebook.
 This is similar to how Shiny apps work in R.
 
