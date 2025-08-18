@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb)
 
-[![DOi](https://zenodo.org/badge/DOI/10.5281/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.2561065)
+[![DOi](https://zenodo.org/badge/DOI/10.81/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.5665)
 
 
 This repository demonstrates how to create interactive webapps from a Jupyter Notebook.
